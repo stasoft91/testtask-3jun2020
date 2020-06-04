@@ -1,6 +1,6 @@
 <template>
   <div class="flex justify-center flex-wrap h-full">
-    <div class="w-1/5 p-2 self-center">
+    <div class="w-64 md:w-1/2 lg:w-1/4 p-2 self-center">
       <div class="w-full">
         <form
           class="bg-white shadow-md px-8 pt-6 pb-8 mb-4"
